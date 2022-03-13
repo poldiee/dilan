@@ -40,6 +40,7 @@ This project is a web application for studio that shows details about the servic
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
+site responsiveness
 ## Contact Information 
 
 any question or contributions, please email me at [nessidave@gmail.com]
