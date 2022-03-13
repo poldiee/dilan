@@ -36,7 +36,7 @@ This project is a web application for studio that shows details about the servic
 |  Enter your name  |   |     |
 | Enter your Email Address  | |   |
 | Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Owiti Charles , we have received your message. Thank you for reaching out to us.|
+| Press Submit|     ||
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
