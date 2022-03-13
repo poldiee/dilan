@@ -32,7 +32,7 @@ html{
   padding-bottom: 30px; 
   /* animation-iteration-count: infinite; */
 }
-/* #mouse-click {
+#mouse-click {
   animation: bounce 2s infinite;
 }
 
@@ -46,7 +46,7 @@ html{
   60% {
     transform: translateY(-45px);
   }
-} */
+}
 
 .about{
   text-align: center;
