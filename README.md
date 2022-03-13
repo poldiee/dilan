@@ -2,11 +2,11 @@
 
 ## Author
 
-[]()
+[David Njagi](https://github.com/poldiee)
 
 ## Description
 
-This project is a web application for studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
+This project is a web application for studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Dilani studios. 
 
 
 ## Live Page 
@@ -40,13 +40,11 @@ This project is a web application for studio that shows details about the servic
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
-* mail chimp API does not function properly.
-
 ## Contact Information 
 
-If you have any question or contributions, please email me at []
+any question or contributions, please email me at [nessidave@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 ****
+*Copyright (c) 2022  **poldiee**
 
